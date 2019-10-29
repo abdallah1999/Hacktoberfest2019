@@ -10,7 +10,7 @@ A repository where you can upload any code in any language of your choice. Feel 
 2. Clone your forked repository using terminal or gitbash.
 
 ```
-git clone <link-of-repos>
+git clone <link-of-repos> without "<>"
 ```
 
 3. Make changes to the cloned repos
